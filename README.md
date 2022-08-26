@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Uladzimir 👋
 
 <!--
 **ukamovich/ukamovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💼 Job: work in progress
+- 🌱 Machine learning
+- 📚 Bachelor's degree in Computer Science from [NTNU](https://www.ntnu.edu/)
+- 📬 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ukamovich/)
