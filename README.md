@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 Job: work in progress
-- 🌱 Machine learning
+- 💼 Job: Test developer @ Trondheim Municipality
+- 🌱 Automation, front-end and back-end testing, machine learning
 - 📚 Bachelor's degree in Computer Science from [NTNU](https://www.ntnu.edu/)
 - 📬 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ukamovich/)
